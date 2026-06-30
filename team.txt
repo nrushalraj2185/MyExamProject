@@ -1,1 +1,2 @@
 Team Members:
+- John Doe (Developer)
